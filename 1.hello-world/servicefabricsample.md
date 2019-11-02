@@ -7,7 +7,7 @@ Some Dapr functionality, such as message invocation, will not work without addit
 ## Instructions:
  
 This assumes:
-- that you've cloned the Dapr samples repo https://github.com/dapr/samples, and checked out the `servicefabricsample` branch which contains the application package used below
+- that you've cloned the fork of the Dapr samples repo https://github.com/LMWF/samples, and checked out the `servicefabricsample` branch which contains the application package used below
 - that you're familiar with the scenario outlined in the Dapr Hello World sample: https://github.com/dapr/samples/tree/master/1.hello-world
  
 ## Part 1 Setup
